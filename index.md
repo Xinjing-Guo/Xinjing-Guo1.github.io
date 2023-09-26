@@ -9,7 +9,7 @@ I am a Ph.D. student at **School of Microelectronics, Fudan University**. My res
 ## Education Background
 
 - 2017.09-2022.06: **(Honorred)B.S. in Physics**, East China Normal University
-- 2022.09-Now: **Phd Student Integrated Circuit Science and Engineering**, Fudan University 
+- 2022.09-Now: **Phd Student in Integrated Circuit Science and Engineering**, Fudan University 
 
 ## Research Interests
 
