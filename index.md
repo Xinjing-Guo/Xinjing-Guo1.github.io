@@ -10,6 +10,7 @@ I am a Ph.D. student at **School of Microelectronics, Fudan University**. My res
 
 - 2017.09-2022.06: **(Honorred)B.S. in Physics**, East China Normal University
 - 2022.09-Now: **Phd Student Integrated Circuit Science and Engineering**, Fudan University 
+
 ## Research Interests
 
 - **Atomic Simulation of Microelectronic Devices:** MOSFET, First-Principle Calculation
