@@ -18,15 +18,11 @@ I am a Ph.D. student at **School of Microelectronics, Fudan University**. My res
 
 ## News
 
-**[Apr. 2023]** Attendance of the 1st Symposium on Semiconductor Defect Physics. (Suzhou City, Jiangsu Province, China).
-
-**[Aug. 2023]** **Oral Presentation** on the 1st Seminar of DASP (Maanshan City, Anhui Province, China).
-
-**[Aug. 2023]** **Win the Second Prize** on the **DB-SNU-biz Global Startup** (Seoul, Korea).
-
-**[Sept. 2022]** Attend **Fudan University** as a **Phd Student**!
-
-**[Jan. 2022]** Released first-principles calculation software for defects and impurity properties in semiconductors: **DASP**.
+**[Apr. 2023]** Attendance of the 1st Symposium on Semiconductor Defect Physics. (Suzhou City, Jiangsu Province, China).   
+**[Aug. 2023]** **Oral Presentation** on the 1st Seminar of DASP (Maanshan City, Anhui Province, China).    
+**[Aug. 2023]** **Win the Second Prize** on the **DB-SNU-biz Global Startup** (Seoul, Korea).   
+**[Sept. 2022]** Attend **Fudan University** as a **Phd Student**!   
+**[Jan. 2022]** Released first-principles calculation software for defects and impurity properties in semiconductors: **DASP**.   
 
 ## Publications
 
