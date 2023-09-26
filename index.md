@@ -24,11 +24,13 @@ I am a Ph.D. student at **School of Microelectronics, Fudan University**. My res
 **[Sept. 2022]** Attend **Fudan University** as a **Phd Student**!   
 **[Jan. 2022]** Released first-principles calculation software for defects and impurity properties in semiconductors: **DASP**.   
 
-## Publications
 
 {% include_relative _includes/publications.md %}
 
+---------------------------
+
 ## Life
+
 Upcoming
 
 <!--%#- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
