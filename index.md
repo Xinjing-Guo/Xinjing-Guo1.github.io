@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at **School of Microelectronics, Fudan University**. My research interests include: **Atomic Simulation of Microelectronic Devices** and **Computational Physics**.
+
+## Education Background
+
+- 2017.09-2022.06: **(Honorred)B.S. in Physics**, East China Normal University
 
 ## Research Interests
 
