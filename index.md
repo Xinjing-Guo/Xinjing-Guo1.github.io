@@ -17,10 +17,14 @@ I am a Ph.D. student at **School of Microelectronics, Fudan University**. My res
 - **Computational Physics:** Defects in Semiconductors
 
 ## News
-Upcoming
+**[Apr. 2023]** Attendance of the 1st Symposium on Semiconductor Defect Physics. (Suzhou City, Jiangsu Province, China)
+**[Aug. 2023]** **Oral Presentation** on the 1st Seminar of DASP (Maanshan City, Anhui Province, China)
+**[Aug. 2023]** **Win the Second Prize** on the **DB-SNU-biz Global Startup** (Seoul, Korea)
+**[Sept. 2022]** Attend **Fudan University** as a **Phd Student**
+**[Jan. 2022]** Released first-principles calculation software for defects and impurity properties in semiconductors: **DASP**
 
 ## Publication 
-Upcoming
+{% include_relative _includes/publications.md %}
 
 ## Life
 Upcoming
@@ -30,6 +34,6 @@ Upcoming
 <!--%#- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 <!--%#- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.-->
 
-{% include_relative _includes/publications.md %}
+
 
 <!--%#{% include_relative _includes/services.md %}-->
