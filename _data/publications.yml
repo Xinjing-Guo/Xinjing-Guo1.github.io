@@ -1,22 +1,22 @@
 main:
 
-  - title: DASP: Defect and Dopant ab-initio Simulation Package
+  #- title: DASP: Defect and Dopant ab-initio Simulation Package
     #authors: Menglin Huang, Zhengneng Zheng, Zhenxing Dai, <strong>Xinjing Guo*</strong>, Shanshan Wang, Lilai Jiang, Jinchen Wei and Shiyou Chen*  (*Corresponding authors)
     #conference_short: JOS
     #conference: Journal of Semiconductors
     #pdf: https://iopscience.iop.org/article/10.1088/1674-4926/43/4/042101/pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: ./_data/DASP_bib.txt
-    image: ./assets/img/teaser_example_2.png
-    notes:   Cites: 18
+   # image: ./assets/img/teaser_example_2.png
+   # notes:   Cites: 18
 
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
+   - title: DASP: Defect and Dopant ab-initio Simulation Package
+     authors: Menglin Huang, Zhengneng Zheng, Zhenxing Dai, <strong>Xinjing Guo*</strong>, Shanshan Wang, Lilai Jiang, Jinchen Wei and Shiyou Chen*  (*Corresponding authors)
+     conference_short: CVPR
+     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+     pdf: https://arxiv.org/pdf/2002.10211.pdf
+     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+     page: https://class-il.mpi-inf.mpg.de/mnemonics/
+     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+     notes: Oral Presentation
+     image: ./assets/img/teaser_example.png
