@@ -46,5 +46,5 @@ Upcoming
 
 
 ---
-layout: life
+layout: homepage
 ---
