@@ -1,7 +1,7 @@
 # Basic Information 
 title: Xinjing Guo
-position: Ph.D. Student
-affiliation: Fudan University
+position: Bachelor-Ph.D. Student
+affiliation: School of Microelectronics, Fudan University
 email: xinjingguo22 (at) m.fudan.edu.cn
 
 # Search Engine Optimization (SEO)
@@ -13,8 +13,8 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=un7c83MAAAAJ&view_op=list_works&gmla=AP6z3Ob0xdP8XfemhtJYCZ3_qT3V4T6_xSFx741_yEIIgCvAQQuEyKnBiltivM58Y-SJOuOtMGtXW3sG7QD8B0Yh-HfnqzPMml4fUFo2oow
-cv_link: assets/files/curriculum_vitae.pdf
-#github_link: https://github.com/
+#cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/Xinjing-Guo
 #linkedin: https://www.linkedin.com/
 #twitter: https://twitter.com/
 wechat: https://wechat.com
